@@ -4,9 +4,10 @@ Proyecto final del curso de Compiladores: Implementación de un lexer/analizador
 
 ## Archivos
 
-- **lexer.l**: Definición del lexer en Flex
 - **entrada.txt**: Archivo de entrada de prueba
-
+- **lexer.l**
+- **parser.y**
+  
 ## Requisitos
 
 - Flex (Fast Lexical Analyzer Generator)
